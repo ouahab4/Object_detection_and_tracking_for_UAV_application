@@ -6,10 +6,10 @@ A hardware-software system for real-time object detection and tracking using a R
 
 <div align="center">
 
-| System Demo | HyperDet GPU Demo |
-| :---: | :---: |
-| ![Demo GIF](media/demo.gif) | ![HyperDet GPU Demo](media/model_demo.gif) |
-| *PC as processing unit* | *Best model running on GPU with real-time inference* |
+ | HyperDet GPU Demo |
+ | :---: |
+| ![HyperDet GPU Demo](media/model_demo.gif) |
+ | *Best model running on GPU with real-time inference* |
 
 </div>
 
