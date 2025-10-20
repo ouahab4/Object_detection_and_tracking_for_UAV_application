@@ -1,0 +1,2 @@
+https://docs.ultralytics.com/datasets/detect/visdrone/#dataset-yaml
+https://universe.roboflow.com/militaryvehiclerecognition/military-vehicle-recognition/images/03oWEQzylMEq2N5ROjKp
