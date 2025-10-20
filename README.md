@@ -38,7 +38,7 @@ Object_detection_and_tracking_for_UAV_application/
 │
 ├── 📄 README.md           # Main project documentation
 ├── 📁 docs/               # Additional documentation
-│   └── project_report.pdf    # Your academic report
+│   └── project_report.pdf    # academic report
 ├── 📁 src/                # Source code
 │   ├── 📁 client_server/          # clent server configuration
 │       ├── server.py                # Raspberry side: It streams video frames and detection results via UDP, separate threads for frame, inference, and communication.
